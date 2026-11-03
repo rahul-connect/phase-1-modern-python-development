@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Write API docs",
+    "priority": "high",
+    "status": "done",
+    "created_date": "2026-08-13",
+    "tags": [
+      "docs",
+      "api"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Review Pull Request",
+    "priority": "medium",
+    "status": "todo",
+    "created_date": "2026-08-13",
+    "tags": [
+      "review"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Fix login bug",
+    "priority": "high",
+    "status": "in_progress",
+    "created_date": "2026-08-14",
+    "tags": [
+      "bug",
+      "urgent"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Update dependencies",
+    "priority": "low",
+    "status": "todo",
+    "created_date": "2026-08-15",
+    "tags": [
+      "maintenance"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Deploy to staging",
+    "priority": "medium",
+    "status": "todo",
+    "created_date": "2026-08-15",
+    "tags": [
+      "deploy"
+    ]
+  }
+]

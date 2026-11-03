@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Fix login bug",
+    "priority": "high",
+    "status": "todo",
+    "created_date": "2026-08-17",
+    "tags": [
+      "bug",
+      "urgent"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Buy groceries",
+    "priority": "low",
+    "status": "todo",
+    "created_date": "2026-08-17",
+    "tags": [
+      "personal"
+    ]
+  }
+]

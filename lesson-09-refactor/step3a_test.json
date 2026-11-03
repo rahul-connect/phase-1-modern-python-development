@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Write docs",
+    "priority": "high",
+    "status": "todo",
+    "created_date": "2026-08-13",
+    "tags": [
+      "docs"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Review PR",
+    "priority": "medium",
+    "status": "todo",
+    "created_date": "2026-08-13",
+    "tags": []
+  },
+  {
+    "id": 3,
+    "title": "Fix bug",
+    "priority": "low",
+    "status": "todo",
+    "created_date": "2026-08-14",
+    "tags": [
+      "bug",
+      "urgent"
+    ]
+  }
+]
